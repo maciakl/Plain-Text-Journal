@@ -1,0 +1,38 @@
+C:\Documents and Settings\lmaciak\Local Settings\Application Data\Temporary Projects\Journal\bin\Debug\Journal.exe
+C:\Documents and Settings\lmaciak\Local Settings\Application Data\Temporary Projects\Journal\bin\Debug\Journal.pdb
+C:\Documents and Settings\lmaciak\Local Settings\Application Data\Temporary Projects\Journal\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\lmaciak\Local Settings\Application Data\Temporary Projects\Journal\obj\Debug\Journal.Form1.resources
+C:\Documents and Settings\lmaciak\Local Settings\Application Data\Temporary Projects\Journal\obj\Debug\Journal.Properties.Resources.resources
+C:\Documents and Settings\lmaciak\Local Settings\Application Data\Temporary Projects\Journal\obj\Debug\Journal.csproj.GenerateResource.Cache
+C:\Documents and Settings\lmaciak\Local Settings\Application Data\Temporary Projects\Journal\obj\Debug\Journal.exe
+C:\Documents and Settings\lmaciak\Local Settings\Application Data\Temporary Projects\Journal\obj\Debug\Journal.pdb
+E:\My Dropbox\Programming\Journal\Journal\obj\Debug\Journal.exe
+E:\My Dropbox\Programming\Journal\Journal\obj\Debug\Journal.pdb
+E:\My Dropbox\Programming\Journal\Journal\bin\Debug\Journal.exe
+E:\My Dropbox\Programming\Journal\Journal\bin\Debug\Journal.pdb
+E:\My Dropbox\Programming\Journal\Journal\obj\Debug\ResolveAssemblyReference.cache
+E:\My Dropbox\Programming\Journal\Journal\obj\Debug\Journal.Properties.Resources.resources
+E:\My Dropbox\Programming\Journal\Journal\obj\Debug\Journal.csproj.GenerateResource.Cache
+C:\Users\luke\Documents\My Dropbox\Programming\Journal\Journal\obj\Debug\Journal.exe
+C:\Users\luke\Documents\My Dropbox\Programming\Journal\Journal\obj\Debug\Journal.pdb
+C:\Users\luke\Documents\My Dropbox\Programming\Journal\Journal\bin\Debug\Journal.exe
+C:\Users\luke\Documents\My Dropbox\Programming\Journal\Journal\bin\Debug\Journal.pdb
+C:\Users\luke\Documents\My Dropbox\Programming\Journal\Journal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\luke\Documents\My Dropbox\Programming\Journal\Journal\obj\Debug\Journal.Properties.Resources.resources
+C:\Users\luke\Documents\My Dropbox\Programming\Journal\Journal\obj\Debug\Journal.csproj.GenerateResource.Cache
+C:\Users\luke\Documents\My Dropbox\Programming\Journal\Journal\bin\Debug\Journal.exe.config
+C:\Users\luke\Documents\My Dropbox\Programming\Journal\Journal\obj\Debug\Journal.Journal.resources
+C:\Users\luke\Documents\My Dropbox\Programming\Journal\Journal\obj\Debug\Journal.ChangeFolder.resources
+C:\Users\luke\Documents\My Dropbox\Programming\Journal\Journal\obj\Debug\Journal.AboutBox1.resources
+C:\Users\luke\Documents\My Dropbox\Programming\Journal\Journal\bin\Debug\Journal.exe.manifest
+C:\Users\luke\Documents\My Dropbox\Programming\Journal\Journal\bin\Debug\Journal.application
+C:\Users\luke\Documents\My Dropbox\Programming\Journal\Journal\obj\Debug\Journal.exe.manifest
+C:\Users\luke\Documents\My Dropbox\Programming\Journal\Journal\obj\Debug\Journal.application
+E:\My Dropbox\Programming\Journal\Journal\obj\Debug\Journal.AboutBox1.resources
+E:\My Dropbox\Programming\Journal\Journal\obj\Debug\Journal.ChangeFolder.resources
+E:\My Dropbox\Programming\Journal\Journal\obj\Debug\Journal.Journal.resources
+E:\My Dropbox\Programming\Journal\Journal\bin\Debug\Journal.exe.config
+E:\My Dropbox\Programming\Journal\Journal\bin\Debug\Journal.exe.manifest
+E:\My Dropbox\Programming\Journal\Journal\bin\Debug\Journal.application
+E:\My Dropbox\Programming\Journal\Journal\obj\Debug\Journal.exe.manifest
+E:\My Dropbox\Programming\Journal\Journal\obj\Debug\Journal.application
