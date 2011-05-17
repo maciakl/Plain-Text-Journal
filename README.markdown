@@ -28,8 +28,8 @@ Installation:
 
 There are two options for obtaining Plain Text Journal binaries:
 
-1. Download <a href="http://maciak.org/tools/plaintextjournal/setup.exe">sedup.exe</a> and install Plain Text Journal on your system.
-2. Download the <a href="http://maciak.org/tools/plaintextjournal/Journal.exe">stand alone binary</a> and run it from anywhere.
+1. Download <a href="http://maciakl.github.com/Plain-Text-Journal/setup.exe">sedup.exe</a> and install Plain Text Journal on your system.
+2. Download the <a href="http://maciakl.github.com/Plain-Text-Journal/Journal.exe">stand alone binary</a> and run it from anywhere.
 
 
 License:
